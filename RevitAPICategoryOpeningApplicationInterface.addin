@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITrainig\RevitAPICategoryOpeningApplicationInterface.dll"</Assembly>
+		
+		<AddInId>A6150370-CF0E-4549-A472-1FAABC828937</AddInId>
+		<FullClassName>RevitAPICategoryOpeningApplicationInterface.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>RevitAPICategoryOpeningApplicationInterface</Text>
+	</AddIn>
+</RevitAddIns>
